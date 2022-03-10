@@ -1,0 +1,5 @@
+// Wisard files
+//./wisard_mapping.v
+./wisard_lut.v
+./wisard.v
+./tb_wisard.v
